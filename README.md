@@ -3,7 +3,7 @@
 #### <h3 style="text-align:center">Projeto semanal proposto pela RocketSeat no desafio #boraCodar. <br> Nesse desafio tenho buscado realmente me desafiar e desenvolver meu aprendizado. 🚀 </h3>
 
 <p align="center">
-  <img alt="Gif do Chat" src="/imagem/calculadora.JPG" width="450px"
+  <img alt="Gif do Chat" src="./imagem/calculadora.JPG" width="450px"
   height="560px">
 </p>
 
